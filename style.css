@@ -75,6 +75,7 @@ h2 {
 .container img {
     max-width: 100%;
     margin: 32px 0;
+    border: 4px solid white;
 }
 
 .part-one h1 {
